@@ -5,13 +5,21 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-## 💫 About Me:
+## 👋 About Me
 
-👨‍💻 **Full Stack Developer**: Building end-to-end web applications, from backend to frontend.<br>
-🚀 **Problem Solver**: Optimizing databases, designing APIs, and creating user-friendly interfaces.<br>
-📚 **Lifelong Learner**: Always exploring new technologies, from cloud platforms to modern frameworks.<br>
-✉️ You can contact me at [muhammadyusuf06u@gmail.com](mailto:muhammadyusuf06u@gmail.com)
+I am a **developer learner** currently building a solid foundation in web development.  
+This GitHub profile is used to document my learning progress, code experiments, and small projects.
 
+🔍 **Current Focus:**
+- Developing frontend projects using **React** and **Next.js**
+- Understanding modern web project structures and best practices
+- Learning frontend and backend concepts step by step
+- Getting comfortable with Git and development workflows
+
+🚀 I am committed to continuous learning and improving my skills through hands-on projects.
+
+📫 **Contact:**  
+📧 muhammadyusuf06u@gmail.com
 <!-- 👨‍💻 All of my projects are available at github.com/alifsuryadi -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&line_height=10&card_width=300&layout=compact&theme=tokyonight&langs_count=16"/> -->
